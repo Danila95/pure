@@ -1,13 +1,22 @@
 @charset "UTF-8";
 @import url("https://fonts.googleapis.com/css?family=Lato:900");
 html {
-  font-family: "Lato", "Lato-Regular"  sans-serif; }
+  font-family: "Lato", sans-serif; }
 
 .Casual-01-PDP {
   width: 100%;
   height: 100%;
   background-color: #ffffff;
   background-color: var(--white); }
+
+.content {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap; }
 
 .Stan-Smith-sneakers {
   width: 535px;
@@ -17,8 +26,6 @@ html {
   font-weight: 900;
   line-height: 1.25;
   text-align: left;
-  float: left;
-  margin-right: 79px;
   color: #222222;
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
@@ -31,9 +38,15 @@ html {
   line-height: 1.63;
   text-align: left;
   color: #222222;
-  float: left;
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
+
+.Empty-Box1 {
+  height: 130px;
+  width: 79px; }
+
+.Empty-Box2 {
+  width: 614px; }
 
 .-Suede-upper-Perf {
   width: 480px;
@@ -44,13 +57,8 @@ html {
   line-height: 1.63;
   text-align: left;
   color: #222222;
-  float: left;
-  margin-left: 613px;
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
-
-.clearfix {
-  clear: both; }
 
 ul {
   list-style: none;
@@ -62,3 +70,15 @@ ul {
     ul li::before {
       content: "•";
       margin: 0 1em 0 0; }
+
+footer {
+  width: 100%;
+  height: 17px;
+  margin-top: 262px;
+  margin-bottom: 122px;
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 3.5px;
+  text-align: center;
+  color: #aaaaaa; }

@@ -9,7 +9,10 @@ html {
   height: 100%;
   background-color: #ffffff;
   background-color: var(--white);
-  padding: 0 186px 0 180px;
+}
+
+body {
+  margin: 0 186px 0 180px;
 }
 
 .content {
@@ -100,24 +103,65 @@ footer {
   color: #222222;
   padding: 6px 0 4px 0;
   margin: 9px 0 10px 20px;
-  
 }
 
 .My-menu {
+  position: relative;
   width: 100%;
   height: 48px;
   display: flex;
   border-bottom: 1px solid gray;
-  
+  align-items: baseline;
 }
 
-.Women-Men-Kids-Sport {
+.Women-Men-Kids-Sport-Brands {
   width: 335px;
   height: 19px;
   font-family: Lato;
   font-size: 16px;
   text-align: left;
   color: #222222;
-  margin: 15px 0 14px 0;
+  margin: 15px 0 7px 40px;
   align-self: center;
+  
+}
+
+.Search {
+  width: 59px;
+  height: 19px;
+  font-family: Lato;
+  font-size: 16px;
+  text-align: left;
+  color: #888888;
+  align-self: center;
+  margin: 15px 0 7px 61px;
+}
+
+.Log-in-My-cart {
+  display: flex;
+  width: 100%;
+  flex-direction: row-reverse;
+}
+
+.Log-in {
+  width: 50px;
+  height: 19px;
+  font-family: Lato;
+  font-size: 16px;
+  text-align: right;
+  color: #222222;
+}
+
+.My-cart {
+  width: 60px;
+  height: 19px;
+  font-family: Lato;
+  font-size: 16px;
+  text-align: right;
+  color: #222222;
+  margin: 0 0 0 32px;
+}
+
+A:link { 
+  text-decoration: none; 
 }

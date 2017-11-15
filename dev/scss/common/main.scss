@@ -31,7 +31,6 @@ body {
 footer {
   width: 100%;
   height: 17px;
-  //top: 262px;
   margin-top: 262px;
   margin-bottom: 122px;
   font-size: 14px;
@@ -115,19 +114,6 @@ A:link {
   color: #ffffff;
 }
 
-.image {
-  margin: 39px 43px 82px 0;
-  box-sizing: border-box;
-}
-
-.breadcrumbs {
-  width: 150px;
-  height: 17px;
-  display: flex;
-  margin: 40px 0 0 0;
-
-}
-
 .Level-1 {
   font-size: 14px;
   color: #888888;
@@ -143,13 +129,7 @@ A:link {
   color: #222222;
 }
 
-.crazylight-boost-low {
-  font-size: 40px;
-  font-weight: 900;
-  line-height: 1.25;
-  width: 467px;
-  height: 100px;
-  //text-align: left;
-  color: #222222;
-  box-sizing: border-box;
+.cost {
+  font-size: 24px;
+  margin: 12px 0 47px
 }

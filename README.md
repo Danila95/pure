@@ -2,6 +2,10 @@
 - Это моя первая большая тестовая работа для начинающего front-end разработчика. Это статическая веб-страница простого интернет магазина. Версия 1.0. Более продвинутую версию этой страницы (версия 2.0) вы можете найти в этом репозитории https://github.com/Danila95/casual
 - It's my first big test work for beginner front-end development. This is my static webpage simply online store "Pure". Version 1.0. More advanced version of the webpage (version 2.0) you can see in this repository  https://github.com/Danila95/casual
 
+## Link of work
+
+https://rawcdn.githack.com/Danila95/pure/master/public/index.html
+
 ## What software was used
 
 <div>

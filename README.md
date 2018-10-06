@@ -1,6 +1,6 @@
 # pure
 - Это моя первая большая тестовая работа для начинающего front-end разработчика. Это статическая веб-страница простого интернет магазина. Версия 1.0. Более продвинутую версию этой страницы (версия 2.0) вы можете найти в этом репозитории https://github.com/Danila95/casual
-- It's my first big test work for beginner front-end development. This is my static webpage simply online store. Version 1.0. More advanced version of the webpage (version 2.0) you can see in this repository  https://github.com/Danila95/casual
+- It's my first big test work for beginner front-end development. This is my static webpage simply online store "Pure". Version 1.0. More advanced version of the webpage (version 2.0) you can see in this repository  https://github.com/Danila95/casual
 
 ## What software was used
 
